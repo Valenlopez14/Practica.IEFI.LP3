@@ -1,0 +1,11 @@
+D:\Escritorio\pry.RepasoIEFI\bin\Debug\pry.RepasoIEFI.exe.config
+D:\Escritorio\pry.RepasoIEFI\bin\Debug\pry.RepasoIEFI.exe
+D:\Escritorio\pry.RepasoIEFI\bin\Debug\pry.RepasoIEFI.pdb
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.csproj.AssemblyReference.cache
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.Form1.resources
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.Properties.Resources.resources
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.csproj.GenerateResource.cache
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.csproj.CoreCompileInputs.cache
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.exe
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.pdb
+D:\Escritorio\pry.RepasoIEFI\obj\Debug\pry.RepasoIEFI.frmChart.resources
